@@ -1,0 +1,8 @@
+{
+  "name": "drone-synth-js",
+  "version": "1.2.0",
+  "description": "Procedural stereo drone instruments for the Web Audio API",
+  "type": "module",
+  "exports": "./drone-synth.mjs",
+  "files": ["drone-synth.mjs", "index.html", "README.md"]
+}
